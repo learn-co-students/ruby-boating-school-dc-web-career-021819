@@ -21,5 +21,5 @@ boating_test3 = BoatingTest.new(patrick, "Power Steering 201", "passed", krabs)
 boating_test4 = BoatingTest.new(patrick, "Leedle", "passed", krabs)
 
 
-binding.pry 
-0
+# binding.pry 
+# 0
